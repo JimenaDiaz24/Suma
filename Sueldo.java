@@ -34,7 +34,7 @@ public class Sueldo {
              System.out.println("Canasta basica"+ladi);
              System.out.println("Canasta basica"+isr2);
           
-             
+          System.out.println("Jimena Diaz");   
     }
     
 }
