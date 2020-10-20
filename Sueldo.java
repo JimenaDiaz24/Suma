@@ -26,14 +26,14 @@ public class Sueldo {
              System.out.println("¿Cuantas horas trabajaste?");
              b=leer.nextFloat();
              nor=a*b;
-             canasta=nor*10/100;
+             canasta=nor*20/100;
              ladi=nor+canasta;
              isr=nor*0.16/100;
              isr2=nor-isr;
              System.out.println("Sueldo normal"+nor);
              System.out.println("Canasta basica"+ladi);
              System.out.println("Canasta basica"+isr2);
-             System.out.println("Adios");
+          
              
     }
     
