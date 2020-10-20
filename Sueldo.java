@@ -33,7 +33,7 @@ public class Sueldo {
              System.out.println("Sueldo normal"+nor);
              System.out.println("Canasta basica"+ladi);
              System.out.println("Canasta basica"+isr2);
-             System.out.println("Adios");
+          
              
     }
     
